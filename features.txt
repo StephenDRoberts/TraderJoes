@@ -1,0 +1,14 @@
+
+- able to buy bigger baskets at certain times
+- loans + interest
+- market crashes
+- load/save high scores with name input for leaderboard
+- show leaderboard
+- escape from putting in products/units in buy/sell or from location
+- refactor case statements in buy/sell so dont have to put in 1/2/3 etc
+- 0 amount error cases
+
+
+Done:
+- day limit
+- max amount of items you can buy
