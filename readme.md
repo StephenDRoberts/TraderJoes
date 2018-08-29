@@ -1,4 +1,4 @@
-Trader Joe's is a simple text based game based off Drug Wars.
+Trader Joe's is a simple text based game based off Drug Wars. This was my first game made in Ruby during my graduate training.
 
 The aim is to buy/sell goods to make a profit by the end of the period (initially set to 10 days). After the 10th day your total balance is returned which indicates your score.
 
